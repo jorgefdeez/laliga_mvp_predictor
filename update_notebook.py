@@ -3,8 +3,7 @@ import json
 with open("web_scraping/data_cleaning.ipynb", "r") as f:
     nb = json.load(f)
 
-# The second cell has the mappings. We'll just keep the team mapping logic and remove the player mapping.
-# It's easier to just replace the whole source of the second cell.
+
 new_cell_2_source = [
     "_TEAM_MAP = {\n",
     "    \"FC Barcelona\": \"Barcelona\",\n",
@@ -72,7 +71,6 @@ new_cell_2_source = [
 
 nb["cells"][1]["source"] = new_cell_2_source
 
-# Cell 3
 cell_3_source = [
     "data = pd.read_csv(PROCESSED_DIR / \"datos_combinados.csv\")\n",
     "data = data.replace(r\"^\\s*$\", np.nan, regex=True)\n",
@@ -91,6 +89,5 @@ cell_3_source = [
 
 nb["cells"][2]["source"] = cell_3_source
 
-# Save it back
 with open("web_scraping/data_cleaning.ipynb", "w") as f:
     json.dump(nb, f, indent=1)

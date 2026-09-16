@@ -1,4 +1,3 @@
-"""Execute the complete pipeline in its required order."""
 
 from __future__ import annotations
 
@@ -8,7 +7,6 @@ from pathlib import Path
 
 
 def main() -> None:
-    """Run web scraping, cleaning, ranking, and Flask in sequence."""
     root = Path(__file__).resolve().parent
     python = sys.executable
     jupyter = root / ".venv" / "bin" / "jupyter"
