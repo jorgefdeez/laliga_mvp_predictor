@@ -1,0 +1,538 @@
+player_name,team,position,minutes_played,goals,assists,yellow_cards,red_cards,Shots per 90,Tackles per 90,Total Saves,Total Interceptions,Pass Success (%),Fouls Committed per 90,Expected Goals (xG),Clean Sheets,Big Chances Created,FotMob Rating
+Aarón Escandell,Las Palmas,Not Available,152,0,0,0,1,,,0,0,,,,0,0,
+Abdelkabir Abqar,Alavés,Not Available,2314,0,0,10,0,0.4,0.7,0,23,72.9,1.3,0.6,0,0,6.69
+Abderrahman Rebbach,Alavés,Not Available,713,1,0,1,0,2.1,0.6,0,3,66.9,1.6,0.8,0,2,6.32
+Abdessamad Ezzalzouli,Real Betis,Not Available,921,1,0,1,0,3.7,1.5,0,5,72.3,1.0,3.2,0,0,6.42
+Abdón Prats,Mallorca,Not Available,1258,6,1,3,0,2.4,0.3,0,2,56.7,1.3,3.2,0,4,6.45
+Abdul Mumin,Rayo Vallecano,Not Available,1695,1,0,5,1,0.3,0.5,0,22,80.2,0.8,0.4,0,1,6.76
+Abner,Real Betis,Not Available,1397,0,1,3,0,0.3,1.2,0,15,81.0,1.0,0.1,0,3,6.74
+Adnan Januzaj,Sevilla,Not Available,187,0,0,0,0,,,0,0,,,0.6,0,0,
+Adrià Altimira,Villarreal,Not Available,779,0,0,3,0,,,0,0,,,0.0,0,0,
+Adrià Pedrosa,Sevilla,Not Available,1749,1,4,1,0,0.8,1.3,0,15,78.6,0.3,0.7,0,9,6.78
+Adrián Embarba,Almería,Not Available,2485,3,2,5,0,2.3,1.3,0,15,75.6,1.3,4.3,0,9,6.89
+Aiham Ousou,Cádiz,Not Available,429,0,0,0,0,,,0,0,,,0.2,0,0,
+Aihen Muñoz,Real Sociedad,Not Available,1120,0,2,2,0,0.6,1.7,0,9,77.3,1.4,0.3,0,3,6.92
+Aimar Oroz,Osasuna,Not Available,2350,2,1,3,0,1.0,1.0,0,16,82.2,1.5,3.5,0,3,6.81
+Aingeru Olabarrieta,Athletic Club,Not Available,8,0,0,0,0,,,0,0,,,0.0,0,0,
+Aïssa Mandi,Villarreal,Not Available,1113,1,0,3,0,,,0,0,,,0.7,0,1,
+Aitor Fernández,Osasuna,Not Available,550,0,0,2,0,,,0,0,,,0.1,0,0,
+Aitor Paredes,Athletic Club,Not Available,2706,1,0,7,1,0.5,0.4,0,33,85.6,1.2,1.2,0,0,6.79
+Aitor Ruibal,Real Betis,Not Available,1015,2,1,5,0,,,0,0,,,0.9,0,2,
+Alberto Marí,Valencia CF,Not Available,264,1,1,0,0,,,0,0,,,2.1,0,1,
+Alberto Moleiro,Las Palmas,Not Available,1807,3,3,1,0,1.6,0.3,0,7,81.8,0.8,2.0,0,4,6.76
+Alberto Moreno,Villarreal,Not Available,1490,2,2,1,2,1.0,1.3,0,24,83.5,1.4,0.7,0,2,6.69
+Alberto Risco,Getafe,Not Available,135,0,0,0,0,,,0,0,,,0.1,0,1,
+Aleix García,Girona,Not Available,3201,3,6,4,1,1.1,0.8,0,36,91.7,0.8,1.8,0,9,7.47
+Alejandro Catena,Osasuna,Not Available,2536,1,3,8,1,0.6,0.6,0,15,81.9,1.7,1.3,0,4,6.59
+Alejandro Pozo,Almería,Not Available,970,0,0,3,0,0.4,1.1,0,7,76.8,1.5,0.4,0,0,
+Alejo Véliz,Sevilla,Not Available,31,0,0,0,0,,,0,0,,,0.2,0,0,
+Aleksandar Radovanovic,Almería,Not Available,571,0,0,2,0,,,0,0,,,0.0,0,0,
+Aleksandar Sedlar,Alavés,Not Available,948,1,0,2,0,,,0,0,,,0.3,0,0,
+Álex Berenguer,Athletic Club,Not Available,1581,7,3,4,0,1.8,0.8,0,5,73.2,1.7,5.2,0,8,6.64
+Álex Remiro,Real Sociedad,Not Available,3276,0,0,2,1,,,97,0,74.9,0.0,,15,0,6.9
+Álex Sola,Alavés,Not Available,1285,0,3,2,0,2.0,1.1,0,12,71.7,0.9,1.6,0,4,6.67
+Álex Suárez,Las Palmas,Not Available,2566,2,0,7,0,0.2,1.3,0,18,87.4,0.9,1.6,0,0,6.81
+Alexander Sørloth,Villarreal,Not Available,2491,23,6,3,0,2.8,0.1,0,0,76.6,1.2,12.7,0,6,7.26
+Alfonso Espino,Rayo Vallecano,Not Available,2512,0,1,9,0,0.6,1.6,0,40,75.1,1.6,1.0,0,5,6.85
+Alfonso Pedraza,Villarreal,Not Available,1119,1,3,4,1,0.7,0.7,0,13,78.9,1.1,0.6,0,6,
+Amath Ndiaye,Mallorca,Not Available,388,0,0,2,0,,,0,0,,,1.6,0,1,
+Anastasios Douvikas,Celta de Vigo,Not Available,886,7,1,2,0,2.6,0.7,0,2,63.4,1.8,4.6,0,2,6.6
+Ander Barrenetxea,Real Sociedad,Not Available,1436,4,1,1,0,2.3,1.3,0,6,72.5,1.7,3.5,0,2,6.66
+Ander Guevara,Alavés,Not Available,2936,1,0,7,0,0.5,1.0,0,13,76.0,1.5,0.7,0,1,6.84
+Ander Herrera,Athletic Club,Not Available,1023,0,3,4,0,1.2,2.8,0,15,86.6,1.8,0.7,0,2,6.92
+Andoni Gorosabel,Alavés,Not Available,2863,1,0,6,0,0.5,1.3,0,28,82.0,0.9,0.7,0,3,6.9
+Andreas Christensen,Barcelona,Not Available,1990,2,2,4,0,0.5,0.6,0,21,94.3,1.2,1.2,0,2,6.96
+Andrei Ratiu,Rayo Vallecano,Not Available,627,0,0,1,0,,,0,0,,,0.4,0,1,
+Andriy Lunin,Real Madrid,Not Available,1890,0,0,2,0,,,48,0,85.2,,,10,0,7.14
+André Almeida,Valencia CF,Not Available,969,2,1,0,0,,,0,0,,,0.6,0,2,
+André Ferreira,Granada CF,Not Available,1339,0,0,1,0,,,0,0,,,,0,0,
+André Silva,Real Sociedad,Not Available,730,3,0,1,0,2.0,0.2,0,1,81.9,1.7,4.0,0,0,
+Andrés Guardado,Real Betis,Not Available,442,0,0,2,0,,,0,0,,,0.1,0,0,
+Ansu Fati,Barcelona,Not Available,47,0,0,0,0,,,0,0,,,0.7,0,0,
+Antal Yaakobishvili,Girona,Not Available,60,0,0,0,0,,,0,0,,,,0,1,
+Ante Budimir,Osasuna,Not Available,2449,17,2,4,0,2.8,0.6,0,5,54.8,1.5,14.2,0,4,7.1
+Anthony Lozano,Almería,Not Available,866,3,0,2,0,2.8,0.5,0,2,73.3,2.9,3.5,0,2,
+Antoine Griezmann,Atlético de Madrid,Not Available,2654,16,6,5,0,2.7,0.6,0,10,82.7,0.5,12.4,0,10,7.54
+Antonio Blanco,Alavés,Not Available,2436,0,1,5,1,0.7,1.3,0,35,77.9,1.3,0.8,0,3,6.86
+Antonio Puertas,Granada CF,Not Available,720,0,2,3,1,2.4,1.0,0,6,77.8,2.6,3.2,0,0,
+Antonio Raíllo,Mallorca,Not Available,2198,3,2,4,1,1.2,0.9,0,37,85.8,1.3,1.4,0,3,7.08
+Antonio Rüdiger,Real Madrid,Not Available,2707,1,0,7,0,0.6,0.5,0,11,90.0,0.9,1.6,0,3,6.88
+Antonio Sivera,Alavés,Not Available,3060,0,0,3,0,,,87,0,54.7,,,10,0,6.8
+Antonio Sánchez,Mallorca,Not Available,1463,3,1,3,0,1.4,0.7,0,13,73.5,1.6,2.5,0,1,6.6
+Arda Güler,Real Madrid,Not Available,373,6,0,1,0,,,0,0,,,1.4,0,0,
+Aridane Hernández,Rayo Vallecano,Not Available,1691,0,0,3,0,0.3,0.4,0,14,85.8,0.6,0.3,0,0,6.69
+Aritz Elustondo,Real Sociedad,Not Available,808,0,1,2,0,,,0,0,,,0.3,0,1,
+Arnau Martinez,Girona,Not Available,1240,0,2,5,0,0.1,1.2,0,10,89.9,1.0,0.2,0,3,6.81
+Arnau Puigmal,Almería,Not Available,248,0,0,3,0,,,0,0,,,,0,0,
+Arsen Zakharyan,Real Sociedad,Not Available,1229,1,2,1,0,2.4,1.1,0,4,77.1,1.5,2.4,0,3,6.64
+Artem Dovbyk,Girona,Not Available,2605,24,8,2,0,2.9,0.1,0,0,71.8,0.9,24.3,0,10,7.26
+Arthur Vermeeren,Atlético de Madrid,Not Available,159,0,0,2,0,,,0,0,,,,0,0,
+Asier Villalibre,Athletic Club,Not Available,503,2,1,0,0,,,0,0,,,1.7,0,2,
+Assane Diao,Real Betis,Not Available,1052,2,0,4,0,,,0,0,,,2.5,0,0,
+Augusto Batalla,Granada CF,Not Available,1530,0,0,3,0,,,0,0,,,0.0,3,0,
+Aurélien Tchouaméni,Real Madrid,Not Available,1987,3,1,7,0,1.2,1.0,0,28,92.0,0.9,1.3,0,1,7.29
+Axel Witsel,Atlético de Madrid,Not Available,2784,2,0,5,0,0.2,0.7,0,16,92.2,0.8,1.0,0,1,7.01
+Ayoze Pérez,Real Betis,Not Available,2307,9,1,4,0,2.7,1.2,0,22,79.7,1.4,7.4,0,7,7.2
+Bebé,Rayo Vallecano,Not Available,193,2,0,1,0,7.5,0.9,0,0,72.1,,1.4,0,0,
+Ben Brereton Diaz,Villarreal,Not Available,261,0,0,2,0,,,0,0,,,0.3,0,0,
+Beñat Prados,Athletic Club,Not Available,1450,0,0,1,0,0.4,1.7,0,23,83.4,1.8,0.5,0,1,6.87
+Beñat Turrientes,Real Sociedad,Not Available,1688,0,1,4,0,1.2,0.9,0,6,87.2,1.9,1.2,0,2,6.64
+Benito Ramírez,Las Palmas,Not Available,368,1,1,0,0,2.4,0.7,0,3,80.1,1.0,0.4,0,1,
+Bertrand Traoré,Villarreal,Not Available,569,1,0,4,0,,,0,0,,,0.9,0,0,
+Borja Iglesias,Real Betis,Not Available,404,0,1,2,0,,,0,0,,,0.7,0,2,
+Borja Mayoral,Getafe,Not Available,2162,15,1,2,0,2.0,0.2,0,4,77.7,1.3,11.9,0,2,7.13
+Boubakary Soumaré,Sevilla,Not Available,2286,0,1,10,0,0.0,1.1,0,26,90.3,1.3,0.0,0,2,7.02
+Brahim Díaz,Real Madrid,Not Available,1551,8,6,0,0,2.2,1.1,0,5,87.1,1.3,5.8,0,9,7.38
+Brais Méndez,Real Sociedad,Not Available,2420,5,6,7,0,2.5,1.0,0,12,81.0,2.2,4.2,0,9,7.17
+Brian Ocampo,Cádiz,Not Available,237,1,0,2,0,,,0,0,,,0.3,0,0,
+Bruno Langa,Almería,Not Available,819,1,0,1,1,,,0,0,,,0.2,0,0,
+Bruno Méndez,Granada CF,Not Available,1336,2,0,4,0,,,0,0,,,0.6,0,0,
+Bryan Zaragoza,Granada CF,Not Available,1640,6,2,5,0,1.9,0.5,0,3,65.6,0.7,3.8,0,6,7.13
+Caglar Söyüncü,Atlético de Madrid,Not Available,110,0,0,0,1,,,0,0,,,,0,0,
+Carl Starfelt,Celta de Vigo,Not Available,2218,1,0,4,0,0.5,1.2,0,34,87.9,0.6,1.4,0,0,6.94
+Carles Aleñá,Getafe,Not Available,1007,1,1,6,0,1.4,0.7,0,4,81.5,2.0,1.2,0,5,6.32
+Carles Pérez,Celta de Vigo,Not Available,768,1,1,3,0,,,0,0,,,1.2,0,2,
+Carlos Benavídez,Alavés,Not Available,1121,3,1,5,0,1.1,2.8,0,19,70.5,3.1,1.0,0,1,6.8
+Carlos Domínguez,Celta de Vigo,Not Available,1585,0,0,2,0,0.3,1.2,0,22,79.2,0.9,0.3,0,0,6.69
+Carlos Dotor,Celta de Vigo,Not Available,702,0,0,2,0,,,0,0,,,0.2,0,0,
+Carlos Fernández,Real Sociedad,Not Available,406,2,1,3,0,,,0,0,,,1.5,0,1,
+Carlos Neva,Granada CF,Not Available,3152,0,2,4,0,0.1,0.6,0,30,76.3,0.6,0.1,0,7,6.49
+Carlos Romero,Villarreal,Not Available,259,0,0,1,0,,,0,0,,,0.4,0,0,
+Carlos Vicente,Alavés,Not Available,1118,2,4,1,0,,,0,0,,,2.3,0,8,
+Cenk Özkacar,Valencia CF,Not Available,1595,0,0,3,0,0.3,0.8,0,18,81.7,0.7,0.3,0,0,6.61
+Chadi Riad,Real Betis,Not Available,2164,0,0,1,0,0.5,1.0,0,23,89.7,0.6,0.7,0,0,6.79
+Christopher Ramos,Cádiz,Not Available,2627,5,1,5,0,2.6,0.5,0,9,57.6,2.1,10.2,0,2,6.45
+Claudio Bravo,Real Betis,Not Available,630,0,0,0,0,,,0,0,,,,2,0,
+Cristhian Mosquera,Valencia CF,Not Available,3074,0,0,2,0,0.3,1.0,0,36,88.6,0.7,0.7,0,0,6.71
+Cristhian Stuani,Girona,Not Available,782,9,3,6,0,3.9,1.3,0,5,73.7,3.2,9.7,0,4,6.66
+Cristian Herrera,Las Palmas,Not Available,159,1,0,1,0,,,0,0,,,0.9,0,0,
+Cristian Portu,Girona,Not Available,1271,7,5,4,0,1.6,1.1,0,4,79.8,1.3,3.5,0,7,6.61
+Cyle Larin,Mallorca,Not Available,1823,3,2,8,0,3.4,0.4,0,3,64.7,1.3,9.1,0,2,6.36
+Cédric Bakambu,Real Betis,Not Available,195,0,0,1,0,,,0,0,,,0.4,0,1,
+César Azpilicueta,Atlético de Madrid,Not Available,1421,0,2,4,0,0.1,0.9,0,16,86.1,1.8,0.6,0,6,6.88
+César Montes,Almería,Not Available,1792,0,0,5,0,0.7,0.7,0,11,77.7,1.1,0.7,0,0,6.39
+Daley Blind,Girona,Not Available,2971,1,2,6,0,0.5,0.6,0,21,90.3,0.6,1.9,0,2,7.26
+Daley Sinkgraven,Las Palmas,Not Available,375,0,0,0,1,,,0,0,,,,0,0,
+Damián Rodríguez,Celta de Vigo,Not Available,257,0,2,1,0,,,0,0,,,0.0,0,1,
+Damián Suárez,Getafe,Not Available,1306,0,2,7,1,,,0,0,,,0.3,0,0,
+Dani García,Athletic Club,Not Available,738,1,0,4,0,,,0,0,,,0.8,0,0,
+Daniel Carvajal,Real Madrid,Not Available,2172,4,3,3,1,0.7,1.3,0,22,87.3,1.0,1.7,0,4,7.35
+Daniel Ceballos,Real Madrid,Not Available,586,0,2,2,0,1.1,0.8,0,0,91.1,0.8,0.3,0,2,
+Daniel Parejo,Villarreal,Not Available,2586,3,5,4,0,0.4,1.0,0,21,90.2,0.6,2.9,0,5,7.25
+Daniel Rodriguez,Mallorca,Not Available,2632,2,4,9,0,0.9,0.8,0,15,77.3,2.1,1.4,0,7,6.74
+Daniel Vivian,Athletic Club,Not Available,2879,0,0,6,0,0.3,0.9,0,31,84.4,1.2,0.8,0,1,6.99
+Darwin Machís,Cádiz,Not Available,782,4,0,0,1,2.4,1.6,0,4,71.7,1.4,1.4,0,0,
+David Alaba,Real Madrid,Not Available,1156,0,1,2,0,,,0,0,,,1.0,0,2,
+David García,Osasuna,Not Available,2336,0,1,5,0,0.6,0.7,0,18,83.1,1.3,1.0,0,1,6.84
+David Gil,Cádiz,Not Available,371,0,0,1,0,,,0,0,,,,1,0,
+David López,Girona,Not Available,1975,3,0,4,0,0.7,0.9,0,20,92.9,0.8,2.1,0,0,6.98
+David Soria,Getafe,Not Available,3414,0,0,3,0,,,123,0,48.4,0.0,,10,0,6.72
+Denis Suárez,Villarreal,Not Available,130,0,0,0,0,,,0,0,,,0.1,0,1,
+Diadie Samassékou,Cádiz,Not Available,87,0,0,0,0,,,0,0,,,0.0,0,0,
+Diego López,Valencia CF,Not Available,2671,3,6,2,0,1.4,0.8,0,20,69.0,0.9,3.7,0,11,6.82
+Diego Rico,Getafe,Not Available,2536,0,7,10,0,0.6,1.7,0,41,67.4,1.1,0.3,0,8,7.14
+Dimitri Foulquier,Valencia CF,Not Available,1833,0,0,3,0,0.3,1.1,0,16,72.9,1.2,0.7,0,2,6.72
+Dion Lopy,Almería,Not Available,1917,0,0,5,0,1.1,1.7,0,15,85.0,1.4,1.3,0,3,6.74
+Djené Dakonam,Getafe,Not Available,2490,0,0,12,1,0.2,0.7,0,23,78.6,1.8,0.1,0,0,6.71
+Djibril Sow,Sevilla,Not Available,1469,1,1,5,0,1.1,1.3,0,17,85.8,1.7,1.5,0,1,6.74
+Dodi Lukebakio,Sevilla,Not Available,1124,5,1,0,0,3.4,0.2,0,2,84.2,1.9,5.6,0,0,6.72
+Domingos Duarte,Getafe,Not Available,905,0,0,3,2,,,0,0,,,0.3,0,0,
+Dominik Greif,Mallorca,Not Available,90,0,0,0,0,,,0,0,,,,1,0,
+Edgar González,Almería,Not Available,2528,2,0,5,1,0.5,0.7,0,38,85.4,1.0,2.4,0,0,6.5
+Eduardo Camavinga,Real Madrid,Not Available,1824,0,2,9,0,0.8,2.3,0,29,91.3,2.4,0.9,0,2,7.27
+Enes Ünal,Getafe,Not Available,138,0,1,0,0,,,0,0,,,0.1,0,1,
+Enrique Barja,Osasuna,Not Available,293,0,0,3,0,,,0,0,,,0.2,0,1,
+Enzo Loiodice,Las Palmas,Not Available,1792,0,1,2,0,0.8,1.8,0,12,84.3,1.6,0.6,0,1,6.66
+Eric Bailly,Villarreal,Not Available,838,0,0,4,0,,,0,0,,,0.2,0,0,
+Eric García,Girona,Not Available,2697,5,0,5,0,0.6,1.2,0,30,90.3,0.8,2.9,0,1,7.14
+Erik Lamela,Sevilla,Not Available,459,2,0,3,0,,,0,0,,,1.0,0,2,
+Ezequiel Ávila,Osasuna,Not Available,1166,0,3,0,0,,,0,0,,,,0,3,
+Ezequiel Ávila,Real Betis,Not Available,1166,2,0,5,3,2.8,0.2,0,5,71.7,0.8,2.8,0,0,6.55
+Fabio González,Las Palmas,Not Available,121,0,0,1,0,,,0,0,,,,0,0,
+Fabricio Angileri,Getafe,Not Available,160,0,0,2,1,,,0,0,,,,0,3,
+Facundo Pellistri,Granada CF,Not Available,1220,2,1,0,1,,,0,0,,,2.5,0,1,
+Faitout Maouassa,Granada CF,Not Available,244,0,1,0,0,,,0,0,,,0.2,0,1,
+Fali,Cádiz,Not Available,2550,0,0,12,0,0.4,0.9,0,27,77.3,0.8,0.8,0,0,6.74
+Famara Diédhiou,Granada CF,Not Available,82,0,1,1,0,,,0,0,,,0.5,0,1,
+Federico San Emeterio,Cádiz,Not Available,155,1,0,1,1,,,0,0,,,0.1,0,0,
+Federico Valverde,Real Madrid,Not Available,2910,2,7,2,0,1.7,1.1,0,43,91.2,0.6,3.6,0,9,7.5
+Ferland Mendy,Real Madrid,Not Available,1725,0,0,5,0,0.3,0.5,0,13,94.2,0.9,0.2,0,1,7.05
+Fermin López,Barcelona,Not Available,1444,8,0,2,0,3.2,1.3,0,4,85.0,2.7,7.5,0,1,6.87
+Fernando Francisco Reges,Sevilla,Not Available,459,0,0,0,0,,,0,0,,,0.0,0,1,
+Ferrán Torres,Barcelona,Not Available,1204,7,2,2,0,2.8,0.4,0,5,80.4,0.6,5.5,0,2,6.78
+Filip Jörgensen,Villarreal,Not Available,3240,0,0,4,0,,0.0,143,2,78.0,0.1,,6,0,6.65
+Florian Lejeune,Rayo Vallecano,Not Available,3328,3,1,5,0,1.8,0.7,0,23,81.3,0.7,3.3,0,2,6.92
+Fran Beltrán,Celta de Vigo,Not Available,2438,0,0,2,0,0.8,1.2,0,18,87.4,1.0,0.8,0,1,6.75
+Fran Pérez,Valencia CF,Not Available,2069,1,4,4,0,0.9,0.7,0,14,80.0,1.3,1.1,0,6,6.56
+Francis Coquelin,Villarreal,Not Available,909,0,0,4,0,,,0,0,,,0.1,0,0,
+Francisco Garcia,Real Madrid,Not Available,1396,1,5,2,0,0.6,1.1,0,19,88.8,0.6,0.5,0,5,7.05
+Francisco Vieites,Real Betis,Not Available,315,0,0,0,0,,,0,0,,,,2,0,
+Franco Cervi,Celta de Vigo,Not Available,537,0,1,2,0,,,0,0,,,0.5,0,3,
+Frenkie de Jong,Barcelona,Not Available,1637,2,0,7,0,0.4,1.4,0,14,93.1,1.0,0.7,0,4,7.54
+Gabriel Paulista,Atlético de Madrid,Not Available,1806,0,0,5,0,0.4,0.6,0,28,86.5,0.7,0.5,0,0,6.7
+Gabriel Paulista,Valencia CF,Not Available,1806,0,0,0,1,,,0,0,,,,0,0,
+Gastón Álvarez,Getafe,Not Available,2535,2,0,7,0,0.5,1.3,0,35,76.2,1.5,0.9,0,1,6.8
+Gavi,Barcelona,Not Available,943,1,1,5,0,,,0,0,,,0.9,0,2,
+Gerard Gumbau,Granada CF,Not Available,2684,0,3,12,0,1.5,1.1,0,25,77.5,2.1,1.8,0,9,6.66
+Gerard Moreno,Villarreal,Not Available,2229,10,6,0,0,2.5,0.5,0,9,79.5,0.9,9.7,0,9,7.36
+Germán Pezzella,Real Betis,Not Available,2770,1,0,7,0,0.7,0.8,0,31,86.0,0.7,2.0,0,1,7.05
+Giorgi Mamardashvili,Valencia CF,Not Available,3285,0,0,3,1,,0.1,108,2,46.9,0.1,,13,1,7.01
+Giovanni González,Mallorca,Not Available,2463,1,1,7,0,0.5,1.6,0,31,77.2,1.4,0.5,0,1,6.85
+Giuliano Simeone,Alavés,Not Available,628,1,2,1,0,,,0,0,,,2.4,0,4,
+Goncalo Guedes,Villarreal,Not Available,951,3,2,0,0,,,0,0,,,2.3,0,4,
+Gonzalo Escalante,Cádiz,Not Available,1702,1,2,2,1,0.7,1.3,0,26,76.8,1.6,2.1,0,1,6.53
+Gonzalo Garcia,Real Madrid,Not Available,17,0,0,0,0,,,0,0,,,0.0,0,0,
+Gonzalo Melero,Almería,Not Available,1093,1,1,3,0,1.2,0.7,0,4,82.9,1.7,2.0,0,3,6.39
+Gonzalo Villar,Granada CF,Not Available,1785,1,3,7,0,1.1,1.7,0,6,84.0,2.2,1.9,0,3,6.69
+Gorka Guruzeta,Athletic Club,Not Available,2240,14,5,2,0,2.6,0.9,0,17,69.3,1.8,11.7,0,5,7.25
+Guido Rodríguez,Real Betis,Not Available,1849,2,0,6,0,0.9,1.5,0,29,85.9,1.1,0.7,0,1,7.18
+Hamari Traoré,Real Sociedad,Not Available,2296,0,2,7,0,0.7,0.7,0,24,84.6,1.3,0.5,0,1,6.95
+Hannibal Mejbri,Sevilla,Not Available,101,0,0,2,0,,,0,0,,,0.0,0,2,
+Héctor Bellerín,Real Betis,Not Available,1714,0,1,0,1,0.1,1.2,0,22,79.9,1.1,0.2,0,2,6.62
+Houboulang Mendes,Almería,Not Available,396,0,0,0,0,,,0,0,,,0.0,0,0,
+Hugo Duro,Valencia CF,Not Available,2994,13,2,4,0,2.0,0.2,0,5,72.3,1.2,11.5,0,3,6.83
+Hugo González,Valencia CF,Not Available,79,0,1,0,0,,,0,0,,,0.0,0,1,
+Hugo Guillamón,Valencia CF,Not Available,1305,1,0,6,0,0.2,1.0,0,12,82.1,2.5,0.2,0,1,6.59
+Hugo Sotelo,Celta de Vigo,Not Available,718,0,1,1,0,,,0,0,,,0.3,0,4,
+Hugo Álvarez,Celta de Vigo,Not Available,763,1,1,1,0,,,0,0,,,1.0,0,3,
+Héctor Fort,Barcelona,Not Available,320,0,2,0,0,,,0,0,,,0.0,0,1,
+Iago Aspas,Celta de Vigo,Not Available,2715,9,10,6,1,2.6,0.2,0,10,78.4,0.6,11.5,0,21,7.3
+Ianis Hagi,Alavés,Not Available,798,0,2,3,0,3.0,1.4,0,5,74.2,1.5,2.8,0,4,
+Ibrahima Koné,Almería,Not Available,275,0,0,0,0,,,0,0,,,0.4,0,0,
+Ibrahima Kébé,Girona,Not Available,7,0,0,1,0,,,0,0,,,,0,0,
+Iddrisu Baba,Almería,Not Available,1424,0,0,5,0,0.5,1.6,0,11,83.6,1.8,0.7,0,1,6.62
+Ignasi Miquel,Granada CF,Not Available,2991,1,1,5,0,0.7,0.9,0,45,82.0,1.0,1.4,0,2,6.53
+Igor Zubeldia,Real Sociedad,Not Available,2523,0,2,11,1,0.4,0.9,0,32,85.0,1.5,0.8,0,1,6.91
+Iker Muniain,Athletic Club,Not Available,585,2,0,1,0,2.0,0.2,0,0,88.9,0.8,2.9,0,1,
+Iker Muñoz,Osasuna,Not Available,1856,4,0,5,0,1.1,0.9,0,11,76.2,1.8,1.1,0,0,6.96
+Ilaix Moriba,Getafe,Not Available,606,0,2,3,1,,,0,0,,,0.3,0,2,
+Ilias Akhomach,Villarreal,Not Available,1511,2,2,4,0,1.8,1.3,0,13,80.6,2.4,3.2,0,7,6.69
+Ilkay Gündogan,Barcelona,Not Available,2997,5,9,5,0,1.3,0.7,0,21,90.5,0.5,7.3,0,15,7.71
+Imanol Garcia de Albeniz,Athletic Club,Not Available,523,0,0,2,0,,,0,0,,,0.0,0,0,
+Iñaki Peña,Barcelona,Not Available,900,0,0,0,0,,,0,0,,,,2,0,
+Iñaki Williams,Athletic Club,Not Available,2855,12,3,4,0,2.9,0.5,0,14,73.7,1.0,9.4,0,10,7.35
+Íñigo Lekue,Athletic Club,Not Available,2001,0,2,4,0,0.2,1.0,0,15,80.4,0.7,0.2,0,2,6.95
+Íñigo Martínez,Barcelona,Not Available,1293,0,0,5,0,0.6,0.5,0,11,88.7,0.7,0.4,0,0,
+Íñigo Ruíz de Galarreta,Athletic Club,Not Available,2104,1,1,7,0,0.5,1.3,0,12,83.1,2.3,0.3,0,5,6.99
+Isaac Carcelén,Cádiz,Not Available,2609,0,0,2,0,0.3,1.1,0,27,74.4,0.6,0.7,0,0,6.73
+Isaac Romero,Sevilla,Not Available,1050,4,4,2,0,,,0,0,,,7.3,0,7,
+Isco,Real Betis,Not Available,2338,8,5,10,0,2.5,1.0,0,10,86.2,1.2,8.3,0,12,7.66
+Isi Palazón,Rayo Vallecano,Not Available,2810,4,1,8,0,2.3,0.8,0,16,74.9,1.0,5.9,0,2,6.84
+Ivan Rakitic,Sevilla,Not Available,1425,2,1,6,0,,,0,0,,,1.3,0,3,
+Iván Alejo,Cádiz,Not Available,1702,0,2,17,0,0.6,1.2,0,7,64.1,2.6,0.5,0,4,6.4
+Iván Balliu,Rayo Vallecano,Not Available,2876,0,1,4,0,0.3,1.0,0,29,77.0,1.3,0.7,0,3,6.75
+Iván Martín,Girona,Not Available,2744,5,4,5,0,0.6,0.8,0,21,92.3,0.9,2.9,0,4,7.14
+Iván Villar,Celta de Vigo,Not Available,1015,0,0,0,2,,,0,0,,,,0,0,
+Jailson Siqueira,Celta de Vigo,Not Available,893,0,1,1,0,,,0,0,,,0.2,0,2,
+Jaime Mata,Getafe,Not Available,1790,5,1,8,1,1.6,0.8,0,17,68.9,3.2,5.6,0,2,6.53
+Jan Oblak,Atlético de Madrid,Not Available,3420,0,0,1,0,,,102,0,70.9,,,13,0,6.79
+Jaume Costa,Mallorca,Not Available,1681,0,1,7,0,0.3,1.2,0,16,77.3,1.3,0.3,0,0,6.59
+Javi Galán,Real Sociedad,Not Available,1159,0,1,4,0,0.2,2.0,0,15,81.8,1.7,0.1,0,1,
+Javi Llabrés,Mallorca,Not Available,235,1,0,1,0,,,0,0,,,0.7,0,0,
+Javi López,Alavés,Not Available,2387,1,3,3,0,0.7,0.5,0,10,72.4,0.9,0.9,0,4,6.89
+Javier Guerra,Valencia CF,Not Available,2502,4,1,3,1,1.5,0.9,0,18,74.1,1.4,2.7,0,2,6.66
+Javier Hernández,Cádiz,Not Available,2517,1,2,10,0,1.1,0.9,0,19,73.9,1.6,1.5,0,4,6.82
+Javier Manquillo,Celta de Vigo,Not Available,746,0,1,3,0,,,0,0,,,0.1,0,1,
+Javier Muñoz,Las Palmas,Not Available,2646,2,3,6,0,1.3,0.8,0,20,81.9,1.2,2.5,0,2,6.64
+Jeremías Ledesma,Cádiz,Not Available,3049,0,0,0,0,,0.0,105,0,54.2,0.0,,9,0,6.85
+Jesús Areso,Osasuna,Not Available,2661,1,6,3,0,0.3,0.8,0,18,80.6,1.0,0.2,0,6,6.84
+Jesús Navas,Sevilla,Not Available,2010,0,2,6,1,0.3,1.2,0,22,78.4,0.5,0.1,0,7,6.79
+Jesús Owono,Alavés,Not Available,360,0,0,1,0,,,0,0,,,,1,0,
+Jesús Santiago,Getafe,Not Available,657,1,0,4,0,,,0,0,,,0.6,0,0,
+Jesús Vallejo,Granada CF,Not Available,106,0,0,1,0,,,0,0,,,,0,0,
+Jesús Vázquez,Valencia CF,Not Available,705,1,0,1,0,0.9,1.5,0,3,67.0,1.0,1.2,0,0,
+Jhon Solis,Girona,Not Available,369,0,0,0,0,,,0,0,,,1.1,0,1,
+Joan Jordán,Sevilla,Not Available,378,0,0,1,0,,,0,0,,,0.3,0,0,
+Joao Cancelo,Barcelona,Not Available,2506,2,4,7,0,1.1,1.6,0,29,84.6,1.4,1.6,0,11,7.32
+Joao Félix,Barcelona,Not Available,1542,7,3,3,0,3.6,0.9,0,10,83.7,1.2,8.8,0,6,7.06
+Joaquin Panichelli,Alavés,Not Available,222,0,0,0,0,,,0,0,,,0.6,0,0,
+Johan Mojica,Osasuna,Not Available,2041,0,3,1,0,0.7,1.0,0,21,77.0,1.0,1.0,0,6,6.93
+Johnny Cardoso,Real Betis,Not Available,1331,1,2,3,0,,,0,0,,,1.1,0,0,
+Jon Aramburu,Real Sociedad,Not Available,541,0,0,3,0,,,0,0,,,0.1,0,0,
+Jon Guridi,Alavés,Not Available,2697,3,4,2,0,1.2,0.8,0,22,79.6,0.7,4.0,0,7,6.87
+Jon Magunazelaia,Real Sociedad,Not Available,118,0,0,0,0,,,0,0,,,0.3,0,1,
+Jon Moncayola,Osasuna,Not Available,1801,1,3,2,1,0.8,0.9,0,15,81.6,1.2,0.6,0,5,6.65
+Jon Olasagasti,Real Sociedad,Not Available,351,0,0,3,0,,,0,0,,,0.9,0,0,
+Jon Pacheco,Real Sociedad,Not Available,1521,1,1,8,0,0.4,0.9,0,10,87.3,1.7,1.3,0,1,6.78
+Jonathan Bamba,Celta de Vigo,Not Available,1993,3,2,0,0,1.9,0.4,0,18,80.7,0.7,3.0,0,3,7.04
+Jonathan Viera,Almería,Not Available,1541,0,4,2,1,1.5,0.7,0,4,88.9,0.8,3.6,0,8,7.09
+Jonathan Viera,Las Palmas,Not Available,1541,2,0,0,0,,,0,0,,,,0,0,
+Jordi Martin,Getafe,Not Available,574,0,0,1,0,,,0,0,,,1.4,0,1,
+Jorge Cuenca,Villarreal,Not Available,1961,3,1,7,0,0.9,1.3,0,21,84.0,1.1,1.2,0,0,6.8
+Jorge Herrando,Osasuna,Not Available,1644,0,0,4,0,0.2,1.0,0,15,79.9,1.4,0.4,0,1,6.56
+Jorge Meré,Cádiz,Not Available,677,0,0,0,0,,,0,0,,,0.2,0,0,
+Jorge de Frutos,Rayo Vallecano,Not Available,1542,2,0,1,0,1.7,0.5,0,7,76.4,0.9,2.6,0,2,6.51
+Joseba Zaldúa,Cádiz,Not Available,709,0,0,3,0,,,0,0,,,0.0,0,2,
+Joselu,Real Madrid,Not Available,1676,10,2,1,0,3.4,0.2,0,6,73.6,0.5,12.0,0,4,6.9
+Joseph Aidoo,Celta de Vigo,Not Available,407,0,0,0,0,,,0,0,,,0.1,0,0,
+José Arnáiz,Osasuna,Not Available,922,2,1,3,0,2.8,0.8,0,3,81.0,0.8,1.7,0,5,6.46
+José Campaña,Las Palmas,Not Available,166,0,0,0,0,,,0,0,,,0.0,0,0,
+José Copete,Mallorca,Not Available,1335,1,1,7,0,0.5,1.8,0,32,78.1,2.4,0.5,0,1,6.86
+José Gayà,Valencia CF,Not Available,1797,1,2,2,0,0.5,1.8,0,11,79.2,1.2,0.5,0,4,7.06
+José Giménez,Atlético de Madrid,Not Available,1323,0,0,5,0,0.5,0.7,0,10,86.5,1.2,0.4,0,0,6.72
+José Luis Morales,Villarreal,Not Available,1037,7,0,0,0,2.3,0.3,0,7,76.1,0.3,5.6,0,1,6.44
+José Mari,Cádiz,Not Available,12,0,0,1,0,,,0,0,,,,0,0,
+José Maria Callejon,Granada CF,Not Available,794,0,1,2,0,1.4,0.7,0,5,82.4,1.2,1.3,0,2,6.39
+José Ángel Carmona,Getafe,Not Available,1312,1,1,9,0,0.8,1.4,0,21,76.4,2.3,0.8,0,1,6.51
+Juan Brandariz,Almería,Not Available,2432,0,1,4,0,0.2,0.8,0,14,86.6,0.9,1.0,0,3,6.25
+Juan Carlos,Girona,Not Available,0,0,0,1,0,,,0,0,,,,0,0,
+Juan Cruz,Osasuna,Not Available,1663,0,1,3,0,0.2,0.8,0,12,81.5,1.1,0.0,0,1,6.52
+Juan Cruz,Real Betis,Not Available,71,0,0,0,0,,,0,0,,,0.1,0,0,
+Juan Foyth,Villarreal,Not Available,1063,1,1,1,0,,,0,0,,,0.4,0,1,
+Juan Iglesias,Getafe,Not Available,1413,0,2,4,0,1.0,1.4,0,16,65.2,1.0,0.6,0,1,6.83
+Juan Miranda,Real Betis,Not Available,1860,1,1,8,0,0.8,1.2,0,19,82.4,1.0,1.6,0,4,6.98
+Juanlu Sánchez,Sevilla,Not Available,1174,0,2,2,0,0.8,2.7,0,12,83.2,0.8,0.9,0,0,7.06
+Juanma Herzog,Las Palmas,Not Available,291,2,0,1,0,,,0,0,,,0.7,0,0,
+Juanmi,Cádiz,Not Available,872,3,1,3,0,,,0,0,,,2.7,0,2,
+Juanmi Latasa,Getafe,Not Available,1553,2,0,5,1,2.5,0.4,0,4,52.9,3.8,3.9,0,2,6.35
+Juanpe,Girona,Not Available,739,0,0,4,0,,,0,0,,,0.2,0,0,
+Jude Bellingham,Real Madrid,Not Available,2323,19,6,5,1,2.4,1.3,0,21,89.8,1.2,11.1,0,7,8.12
+Julen Agirrezabala,Athletic Club,Not Available,236,0,0,0,0,,,0,0,,,,1,0,
+Jules Koundé,Barcelona,Not Available,2899,1,2,4,0,0.7,0.7,0,25,90.8,0.7,2.0,0,5,7.1
+Julian Araujo,Las Palmas,Not Available,1462,1,0,5,0,0.4,1.4,0,10,83.3,0.8,0.7,0,2,6.91
+Jørgen Strand Larsen,Celta de Vigo,Not Available,2887,13,3,5,0,2.6,0.3,0,5,70.1,2.0,14.9,0,5,6.89
+Kaiky,Almería,Not Available,520,1,0,2,0,,,0,0,,,0.2,0,0,
+Kamil Jozwiak,Granada CF,Not Available,573,0,1,2,0,,,0,0,,,0.1,0,3,
+Kamil Piatkowski,Granada CF,Not Available,506,0,0,1,1,,,0,0,,,0.8,0,0,
+Kepa Arrizabalaga,Real Madrid,Not Available,1197,0,0,1,0,,,0,0,,,,7,0,
+Kevin Vázquez,Celta de Vigo,Not Available,706,0,0,3,0,,,0,0,,,0.0,0,0,
+Kieran Tierney,Real Sociedad,Not Available,1243,0,2,1,0,0.1,1.7,0,10,80.1,0.4,0.2,0,2,6.96
+Kike García,Alavés,Not Available,1421,3,2,3,0,3.6,0.3,0,1,68.4,1.6,7.7,0,2,6.64
+Kike Pérez,Rayo Vallecano,Not Available,828,1,0,7,0,1.4,1.2,0,8,79.8,4.6,1.9,0,1,6.31
+Kike Salas,Sevilla,Not Available,1604,3,0,10,0,0.9,1.3,0,26,79.1,1.8,0.9,0,0,6.86
+Kiko Femenía,Villarreal,Not Available,1579,0,0,6,1,0.1,1.4,0,31,85.3,1.4,0.0,0,1,6.87
+Kirian Rodríguez,Las Palmas,Not Available,3217,6,2,7,0,1.2,0.9,0,28,89.5,0.6,2.1,0,2,7.18
+Koke,Atlético de Madrid,Not Available,2502,0,4,5,0,0.4,1.6,0,16,90.9,0.7,0.4,0,7,7.11
+Lamine Yamal,Barcelona,Not Available,2197,5,5,3,0,2.4,1.5,0,19,84.1,0.9,5.2,0,13,7.34
+Largie Ramazani,Almería,Not Available,1560,3,5,7,2,2.3,0.4,0,34,64.4,1.6,4.7,0,10,6.61
+Léo Baptistão,Almería,Not Available,1843,6,0,6,1,2.3,0.8,0,11,67.2,1.0,5.3,0,2,6.69
+Loïc Badé,Sevilla,Not Available,2283,0,1,5,1,0.6,1.6,0,38,83.0,0.9,1.2,0,0,7.18
+Luca de la Torre,Celta de Vigo,Not Available,1956,1,4,2,1,1.1,1.0,0,12,83.3,1.8,2.5,0,2,6.57
+Lucas Boyé,Granada CF,Not Available,2555,6,3,8,1,2.0,0.9,0,10,73.7,2.5,6.2,0,1,6.61
+Lucas Ocampos,Sevilla,Not Available,2885,4,3,9,0,2.0,1.5,0,21,73.6,1.0,5.4,0,9,7.13
+Lucas Pires,Cádiz,Not Available,1527,1,0,6,0,0.6,1.6,0,17,77.7,0.7,0.8,0,3,6.51
+Lucas Robertone,Almería,Not Available,2391,0,5,11,0,1.4,1.2,0,51,84.5,1.4,1.0,0,5,7.04
+Lucas Torró,Osasuna,Not Available,1788,1,0,5,0,1.5,0.8,0,33,76.1,2.2,1.6,0,1,6.71
+Lucas Vázquez,Real Madrid,Not Available,1410,3,6,0,0,0.8,1.6,0,12,88.5,1.4,1.4,0,9,7.36
+Lucien Agoume,Sevilla,Not Available,777,0,0,3,0,,,0,0,,,0.9,0,0,
+Luis Hernández,Cádiz,Not Available,722,1,0,4,0,,,0,0,,,1.0,0,0,
+Luis Maximiano,Almería,Not Available,2970,0,0,1,0,,,114,0,62.1,0.0,,6,0,6.51
+Luis Milla,Getafe,Not Available,2123,0,1,6,0,0.7,1.4,0,32,84.1,1.8,0.6,0,2,7.13
+Luis Rioja,Alavés,Not Available,2511,5,4,4,0,2.0,0.7,0,16,74.9,0.8,6.2,0,9,6.95
+Luis Suárez,Almería,Not Available,917,6,0,3,0,,,0,0,,,6.5,0,1,
+Luiz Felipe,Real Betis,Not Available,360,0,0,1,0,,,0,0,,,0.1,0,0,
+Luiz Henrique,Real Betis,Not Available,611,0,3,1,0,,,0,0,,,1.2,0,6,
+Luka Modrić,Real Madrid,Not Available,1685,2,6,2,0,1.3,0.8,0,21,91.1,1.0,1.3,0,12,7.21
+Luka Romero,Almería,Not Available,434,3,0,2,0,,,0,0,,,1.3,0,0,
+Lázaro,Almería,Not Available,274,0,0,0,0,,,0,0,,,0.9,0,1,
+Malcom Ares,Athletic Club,Not Available,258,0,0,2,0,,,0,0,,,0.1,0,0,
+Mamadou Mbaye,Cádiz,Not Available,286,0,0,2,0,,,0,0,,,0.3,0,0,
+Manu Bueno,Sevilla,Not Available,99,0,0,1,0,,,0,0,,,0.0,0,0,
+Manu Morlanes,Mallorca,Not Available,1610,0,2,2,0,0.6,1.6,0,20,84.8,0.8,1.0,0,2,6.8
+Manuel Sánchez,Celta de Vigo,Not Available,1777,0,5,3,0,0.5,1.4,0,19,76.5,1.1,0.5,0,6,6.91
+Manuel Trigueros,Villarreal,Not Available,299,0,0,0,0,,,0,0,,,0.5,0,0,
+Marc Bartra,Real Betis,Not Available,225,0,0,1,0,,,0,0,,,0.2,0,0,
+Marc Cardona,Las Palmas,Not Available,724,4,1,4,0,2.7,1.0,0,2,76.1,1.5,4.2,0,2,6.4
+Marc Guiu,Barcelona,Not Available,73,1,0,1,0,,,0,0,,,0.8,0,1,
+Marc Pubill,Almería,Not Available,1889,1,3,2,0,1.0,1.1,0,15,76.7,1.0,0.7,0,2,7.0
+Marc Roca,Real Betis,Not Available,1986,2,2,5,0,0.9,1.6,0,17,85.5,2.2,1.1,0,2,6.99
+Marc-André ter Stegen,Barcelona,Not Available,2520,0,0,3,0,,,75,0,88.4,,,15,0,6.8
+Marcão,Sevilla,Not Available,354,0,0,2,0,,,0,0,,,,0,1,
+Marciano Sanca,Almería,Not Available,37,0,0,0,0,,,0,0,,,0.0,0,0,
+Marcos Acuña,Sevilla,Not Available,1296,1,2,7,0,0.6,1.5,0,4,79.7,1.3,0.3,0,4,6.96
+Marcos Alonso,Barcelona,Not Available,250,0,0,0,0,,,0,0,,,0.1,0,1,
+Marcos Llorente,Atlético de Madrid,Not Available,2570,6,4,5,0,1.1,0.8,0,14,83.3,1.1,4.1,0,11,6.92
+Marcos Pena,Almería,Not Available,439,0,0,3,0,,,0,0,,,0.2,0,0,
+Mariano Díaz,Sevilla,Not Available,239,0,0,1,0,,,0,0,,,1.2,0,0,
+Mario Dominguez,Valencia CF,Not Available,23,0,0,0,0,,,0,0,,,0.2,0,0,
+Mario Hermoso,Atlético de Madrid,Not Available,2556,0,1,9,0,0.6,0.9,0,30,87.1,1.1,1.4,0,0,7.12
+Marko Dmitrović,Sevilla,Not Available,1170,0,0,1,0,,,0,0,,,,2,0,
+Marko Milovanovic,Almería,Not Available,301,1,0,0,0,,,0,0,,,1.5,0,0,
+Martin Hongla,Granada CF,Not Available,558,0,0,0,0,,,0,0,,,0.2,0,0,
+Martin Valjent,Mallorca,Not Available,2354,0,1,5,0,0.3,0.7,0,29,81.5,1.1,0.3,0,3,6.74
+Martín Zubimendi,Real Sociedad,Not Available,2655,4,1,5,0,0.7,0.9,0,37,86.4,1.2,2.7,0,2,7.2
+Marvin Park,Las Palmas,Not Available,1852,0,2,5,0,0.7,1.2,0,14,79.8,1.9,1.0,0,4,6.46
+Mason Greenwood,Getafe,Not Available,2667,8,6,6,0,3.4,0.2,0,4,81.8,1.3,8.8,0,7,7.12
+Matías Arezo,Granada CF,Not Available,359,0,0,1,0,,,0,0,,,1.5,0,0,
+Matija Nastasić,Mallorca,Not Available,2257,2,0,8,0,0.3,0.7,0,29,80.0,1.3,1.2,0,0,6.9
+Matteo Gabbia,Villarreal,Not Available,478,0,0,2,0,,,0,0,,,,0,0,
+Mauro Arambarri,Getafe,Not Available,337,0,0,2,0,,,0,0,,,0.5,0,0,
+Maximiliano Gómez,Cádiz,Not Available,1157,0,0,2,0,1.2,0.3,0,3,55.8,1.6,1.6,0,1,6.13
+Maximo Perrone,Las Palmas,Not Available,1626,0,0,6,0,0.4,1.2,0,24,90.4,1.5,0.2,0,0,6.65
+Memphis Depay,Atlético de Madrid,Not Available,888,5,1,2,0,3.9,0.2,0,1,76.1,1.4,5.8,0,3,6.59
+Miguel Crespo,Rayo Vallecano,Not Available,521,0,0,4,0,,,0,0,,,0.1,0,2,
+Miguel Gutiérrez,Girona,Not Available,3037,2,7,4,0,1.0,0.5,0,22,88.4,0.8,2.8,0,21,7.14
+Miguel Rodriguez,Celta de Vigo,Not Available,291,0,0,2,0,,,0,0,,,0.3,0,0,
+Miguel Rubio,Granada CF,Not Available,1559,1,0,5,0,0.5,0.7,0,28,80.3,1.2,0.8,0,0,6.56
+Miguel De la Fuente,Alavés,Not Available,64,0,0,0,0,,,0,0,,,0.1,0,0,
+Mihailo Ristić,Celta de Vigo,Not Available,807,0,0,2,0,,,0,0,,,0.3,0,0,
+Mika Màrmol,Las Palmas,Not Available,3181,0,1,4,1,0.1,1.2,0,44,89.0,0.7,0.9,0,1,6.98
+Mikel Jauregizar,Athletic Club,Not Available,145,0,0,0,0,,,0,0,,,0.0,0,0,
+Mikel Merino,Real Sociedad,Not Available,2485,5,3,10,0,1.1,1.6,0,16,77.5,2.5,3.4,0,4,7.31
+Mikel Oyarzabal,Real Sociedad,Not Available,2157,9,3,3,0,1.7,0.8,0,4,75.6,0.8,9.2,0,4,6.79
+Mikel Vesga,Athletic Club,Not Available,1535,3,1,2,0,1.1,1.2,0,32,78.0,1.6,2.7,0,3,6.85
+Milutin Osmajic,Cádiz,Not Available,4,0,0,0,0,,,0,0,,,0.1,0,0,
+Mohamed-Ali Cho,Real Sociedad,Not Available,239,0,0,0,0,,,0,0,,,0.4,0,0,
+Moi Gómez,Osasuna,Not Available,2010,3,0,3,0,0.9,0.9,0,11,83.8,1.3,1.7,0,1,6.93
+Mouctar Diakhaby,Valencia CF,Not Available,1071,1,0,6,0,,,0,0,,,0.7,0,0,
+Munir El Haddadi,Las Palmas,Not Available,2470,3,2,3,0,1.6,1.0,0,11,80.4,1.1,4.3,0,2,6.55
+Myrto Uzuni,Granada CF,Not Available,2459,11,1,3,0,2.3,0.5,0,4,78.9,1.0,13.0,0,5,6.53
+Nabil Fekir,Real Betis,Not Available,1049,1,2,1,0,2.4,0.9,0,7,84.1,1.9,2.2,0,4,
+Nacho Fernandez,Real Madrid,Not Available,1739,0,1,4,2,0.3,0.5,0,18,92.5,1.1,0.5,0,2,6.83
+Nacho Vidal,Mallorca,Not Available,506,0,0,2,0,,,0,0,,,1.3,0,0,
+Nacho Vidal,Osasuna,Not Available,506,1,0,0,0,,,0,0,,,,0,0,
+Nahuel Molina,Atlético de Madrid,Not Available,1855,2,3,4,1,0.6,1.1,0,9,76.9,1.0,1.3,0,4,6.86
+Nahuel Tenaglia,Alavés,Not Available,1131,1,0,5,0,0.6,1.5,0,12,74.5,1.0,0.6,0,1,
+Nemanja Gudelj,Sevilla,Not Available,1744,1,1,7,0,1.0,1.2,0,27,86.5,1.5,0.8,0,2,6.91
+Nemanja Maksimovic,Getafe,Not Available,3272,4,0,4,0,0.9,1.2,0,46,82.0,0.6,5.5,0,1,6.97
+Nemanja Radonjic,Mallorca,Not Available,350,0,0,0,0,,,0,0,,,1.6,0,1,
+Nico Paz,Real Madrid,Not Available,19,0,0,0,0,,,0,0,,,0.1,0,0,
+Nico Williams,Athletic Club,Not Available,2280,5,11,4,1,2.2,0.5,0,3,79.2,0.8,6.0,0,10,7.3
+Njegos Petrovic,Granada CF,Not Available,148,0,0,0,0,,,0,0,,,0.0,0,0,
+Oihan Sancet,Athletic Club,Not Available,1991,4,5,3,2,1.9,0.5,0,10,82.8,1.4,6.3,0,7,6.92
+Óliver Torres,Sevilla,Not Available,1620,0,1,3,0,0.5,1.2,0,6,83.8,1.4,0.6,0,4,6.72
+Omar Alderete,Getafe,Not Available,2194,0,1,8,1,1.0,0.9,0,13,65.1,1.4,1.2,0,2,6.67
+Omar Mascarell,Mallorca,Not Available,1573,0,0,7,0,0.3,0.9,0,31,82.2,1.8,0.4,0,0,6.56
+Omenuke Mfulu,Las Palmas,Not Available,77,0,0,1,0,,,0,0,,,,0,0,
+Oriol Romeu,Barcelona,Not Available,930,0,1,4,0,1.0,1.9,0,10,89.5,1.5,0.7,0,3,6.83
+Óscar Melendo,Granada CF,Not Available,1126,0,0,2,0,0.5,0.5,0,5,82.0,1.0,0.4,0,0,6.33
+Óscar Mingueza,Celta de Vigo,Not Available,3002,2,2,4,0,0.8,1.1,0,17,80.9,0.6,2.6,0,9,6.99
+Óscar Rodríguez,Getafe,Not Available,962,2,1,9,0,3.2,1.2,0,5,77.4,1.9,1.5,0,0,6.7
+Óscar Trejo,Rayo Vallecano,Not Available,1381,0,0,4,1,1.2,1.0,0,5,84.9,2.6,0.9,0,1,6.44
+Óscar Valentín,Rayo Vallecano,Not Available,2700,1,0,5,1,0.5,2.2,0,35,81.7,2.6,1.7,0,1,6.87
+Óscar De Marcos,Athletic Club,Not Available,2261,1,5,5,0,0.2,1.6,0,15,83.0,0.9,0.6,0,5,7.06
+Pablo Barrios,Atlético de Madrid,Not Available,1556,0,1,5,0,1.0,1.4,0,28,85.9,1.3,0.9,0,3,7.09
+Pablo Busto,Real Betis,Not Available,42,0,0,0,0,,,0,0,,,0.0,0,1,
+Pablo Fornals,Real Betis,Not Available,1153,3,2,2,0,,,0,0,,,1.9,0,4,
+Pablo Gozálbez,Valencia CF,Not Available,99,0,0,0,0,,,0,0,,,0.0,0,0,
+Pablo Ibáñez,Osasuna,Not Available,1141,1,2,5,0,2.1,0.7,0,9,77.6,2.1,2.3,0,3,6.48
+Pablo Maffeo,Mallorca,Not Available,1456,1,2,3,1,0.7,1.4,0,10,66.3,1.4,0.8,0,1,6.73
+Pablo Torre,Girona,Not Available,690,0,2,1,0,1.7,0.3,0,4,84.8,1.0,0.8,0,0,6.32
+Pathé Ciss,Rayo Vallecano,Not Available,1658,1,0,10,0,1.2,1.3,0,30,83.6,1.5,1.5,0,0,6.75
+Pau Cubarsí,Barcelona,Not Available,1562,0,0,4,0,0.2,0.8,0,12,91.7,0.9,0.2,0,1,6.94
+Paulo Gazzaniga,Girona,Not Available,3420,0,0,2,0,,0.1,125,0,75.9,,,12,2,6.93
+Pedri,Barcelona,Not Available,1482,4,2,3,0,0.9,1.5,0,14,87.8,0.7,3.1,0,8,7.36
+Pejiño,Las Palmas,Not Available,498,2,0,1,0,,,0,0,,,1.3,0,1,
+Pep Chavarría,Rayo Vallecano,Not Available,1164,1,1,3,1,0.9,1.4,0,6,80.0,0.6,1.0,0,2,
+Pepe Reina,Villarreal,Not Available,180,0,0,2,1,,,0,0,,,,0,0,
+Pepelu,Valencia CF,Not Available,3305,7,1,4,0,1.0,1.4,0,49,82.4,1.4,7.3,0,2,7.46
+Peter González,Valencia CF,Not Available,646,0,0,1,0,,,0,0,,,1.7,0,2,
+Predrag Rajkovic,Mallorca,Not Available,3240,0,0,2,0,,0.0,99,0,55.1,0.0,,9,0,6.79
+Radamel Falcao,Rayo Vallecano,Not Available,391,1,0,4,0,3.9,1.2,0,3,83.2,3.5,2.7,0,1,
+Rafa Marin,Alavés,Not Available,2442,0,0,6,0,0.5,0.7,0,33,82.8,1.0,0.7,0,0,6.77
+Rafa Mir,Sevilla,Not Available,382,2,0,1,0,,,0,0,,,1.4,0,0,
+Ramón Terrats,Villarreal,Not Available,780,0,2,4,0,0.9,1.5,0,3,86.4,1.7,0.5,0,2,
+Randy Nteka,Rayo Vallecano,Not Available,563,1,1,2,0,,,0,0,,,2.3,0,1,
+Raphinha,Barcelona,Not Available,1370,6,9,4,1,3.9,0.5,0,13,80.9,1.1,7.4,0,11,7.33
+Raúl Albiol,Villarreal,Not Available,2035,0,1,6,0,0.3,0.6,0,16,86.3,0.9,0.4,0,3,6.6
+Raúl García,Athletic Club,Not Available,404,1,0,4,0,2.2,1.3,0,3,61.2,4.5,0.9,0,0,
+Raúl García,Osasuna,Not Available,1347,6,1,4,0,2.2,0.3,0,5,64.1,0.9,4.9,0,2,6.41
+Raúl Torrente,Granada CF,Not Available,1252,0,0,4,0,,,0,0,,,0.3,0,1,
+Raúl de Tomás,Rayo Vallecano,Not Available,1277,1,2,5,0,2.7,0.4,0,1,79.6,1.7,3.4,0,2,6.39
+Reinildo Isnard Mandava,Atlético de Madrid,Not Available,723,2,1,2,0,,,0,0,,,0.9,0,1,
+Renato Tapia,Celta de Vigo,Not Available,1337,0,0,3,1,1.3,2.0,0,21,76.6,1.6,1.0,0,1,7.13
+Ricard Sánchez,Granada CF,Not Available,2298,3,0,8,0,0.5,0.7,0,13,75.7,1.1,1.0,0,1,6.51
+Robert Lewandowski,Barcelona,Not Available,2758,19,8,5,0,3.1,0.2,0,9,72.3,0.8,18.1,0,10,7.48
+Robert Navarro,Cádiz,Not Available,1905,1,1,0,1,1.4,1.4,0,19,79.3,0.7,2.1,0,7,6.91
+Robin Le Normand,Real Sociedad,Not Available,2473,2,0,13,0,0.3,0.8,0,28,88.6,1.2,1.4,0,0,6.93
+Rodri,Real Betis,Not Available,1039,0,0,0,0,1.6,0.9,0,8,82.8,0.5,1.1,0,0,6.53
+Rodrigo de Paul,Atlético de Madrid,Not Available,2084,3,5,7,0,1.3,0.9,0,11,85.7,1.2,1.8,0,11,7.15
+Rodrigo Riquelme,Atlético de Madrid,Not Available,1522,3,5,1,0,2.2,1.1,0,9,79.3,0.7,2.8,0,10,6.81
+Rodrygo Silva de Goes,Real Madrid,Not Available,2388,10,5,2,0,3.3,0.6,0,8,89.9,0.4,11.8,0,5,7.37
+Roger,Cádiz,Not Available,1367,2,3,3,0,2.2,0.4,0,7,67.8,2.2,2.9,0,9,6.46
+Roman Yaremchuk,Valencia CF,Not Available,926,3,0,2,0,1.7,0.2,0,1,69.5,0.7,4.6,0,0,6.3
+Rominigue Kouamé,Cádiz,Not Available,820,0,0,2,0,,,0,0,,,0.3,0,0,
+Ronald Araújo,Barcelona,Not Available,1994,1,2,6,0,1.0,1.0,0,12,89.6,1.1,2.3,0,3,6.91
+Rubén Sobrino,Cádiz,Not Available,1648,0,1,8,1,1.1,1.5,0,16,76.1,2.5,1.9,0,3,6.52
+Rubén Alcaraz,Cádiz,Not Available,3138,3,1,13,0,1.4,1.7,0,33,82.2,2.4,3.3,0,2,6.98
+Rubén Duarte,Alavés,Not Available,1875,2,1,7,0,0.7,1.0,0,23,70.3,1.5,0.7,0,5,6.86
+Rubén García,Osasuna,Not Available,1549,3,2,1,0,1.6,1.0,0,12,72.7,1.4,2.3,0,6,6.88
+Rubén Peña,Osasuna,Not Available,2105,0,2,3,0,0.7,1.1,0,30,71.8,1.2,1.1,0,5,6.79
+Rui Silva,Real Betis,Not Available,2475,0,0,4,0,,,87,1,66.0,0.1,,9,0,6.78
+Samú Costa,Mallorca,Not Available,2305,1,1,8,0,0.9,2.0,0,39,77.8,2.4,1.1,0,0,6.94
+Samuel Dias Lino,Atlético de Madrid,Not Available,2087,4,5,0,0,2.3,1.5,0,14,83.3,1.1,5.7,0,10,7.2
+Samuel Omorodion,Alavés,Not Available,2003,9,1,6,0,3.0,0.2,0,1,72.2,1.4,11.5,0,2,6.52
+Sandro Ramírez,Las Palmas,Not Available,1819,1,3,3,0,2.6,0.4,0,4,82.5,1.0,3.8,0,4,6.7
+Santi Comesaña,Villarreal,Not Available,1656,2,0,6,2,0.9,1.4,0,22,87.3,1.8,1.9,0,3,6.82
+Saul Coco,Las Palmas,Not Available,2293,1,0,6,1,0.8,0.7,0,20,88.9,0.7,1.1,0,0,6.73
+Saúl Ñíguez,Atlético de Madrid,Not Available,1363,1,5,8,1,1.1,2.6,0,14,82.1,2.7,1.5,0,7,6.8
+Savio,Girona,Not Available,2989,9,10,5,0,1.4,0.8,0,18,83.2,0.9,6.1,0,14,7.55
+Selim Amallah,Valencia CF,Not Available,597,0,1,3,1,1.7,1.8,0,11,75.0,3.2,0.4,0,1,
+Sergi Altimira,Real Betis,Not Available,566,1,0,1,0,,,0,0,,,0.2,0,0,
+Sergi Canós,Valencia CF,Not Available,1234,1,2,2,0,3.1,0.9,0,11,69.2,1.2,2.8,0,6,6.71
+Sergi Cardona,Las Palmas,Not Available,2816,1,2,10,0,0.8,1.8,0,46,82.5,1.7,2.7,0,4,7.24
+Sergi Darder,Mallorca,Not Available,2154,2,5,4,0,1.3,1.1,0,16,79.5,0.8,2.2,0,8,6.97
+Sergi Guardiola,Cádiz,Not Available,475,1,1,1,0,2.7,1.3,0,0,75.9,3.4,1.8,0,3,
+Sergi Roberto,Barcelona,Not Available,863,3,2,4,0,,,0,0,,,1.7,0,1,
+Sergio Akieme,Almería,Not Available,1676,2,0,2,0,0.5,0.8,0,10,79.8,1.0,1.2,0,4,6.64
+Sergio Arribas,Almería,Not Available,2055,9,4,1,0,2.6,0.7,0,16,83.1,0.6,8.6,0,10,6.99
+Sergio Camello,Rayo Vallecano,Not Available,1668,3,1,3,0,1.8,0.3,0,3,73.6,1.0,4.5,0,2,6.39
+Sergio Herrera,Osasuna,Not Available,2870,0,0,2,0,,0.1,86,0,61.9,,0.1,9,0,6.69
+Sergio Ramos,Sevilla,Not Available,2518,3,0,7,1,1.0,1.1,0,41,89.2,1.0,1.9,0,0,7.11
+Sergio Rodelas,Granada CF,Not Available,122,0,1,0,0,,,0,0,,,0.1,0,2,
+Sergio Ruiz,Granada CF,Not Available,2501,0,4,9,0,0.5,1.7,0,28,85.1,1.5,0.7,0,3,6.85
+Sheraldo Becker,Real Sociedad,Not Available,772,2,2,1,0,,,0,0,,,1.4,0,2,
+Shon Weissman,Granada CF,Not Available,78,0,0,0,0,,,0,0,,,0.3,0,0,
+Siebe van der Heyden,Mallorca,Not Available,284,0,0,2,1,,,0,0,,,0.2,0,0,
+Sokratis Papastathopoulos,Real Betis,Not Available,1135,0,0,6,0,,,0,0,,,0.3,0,0,
+Sory Kaba,Las Palmas,Not Available,720,1,1,2,0,,,0,0,,,1.5,0,0,
+Srdjan Babic,Almería,Not Available,90,0,0,0,0,,,0,0,,,0.0,0,0,
+Stefan Mitrovic,Getafe,Not Available,700,1,0,3,0,,,0,0,,,0.1,0,1,
+Stefan Savic,Atlético de Madrid,Not Available,1631,0,0,5,1,0.3,1.0,0,27,83.5,0.9,0.3,0,0,6.8
+Stole Dimitrievski,Rayo Vallecano,Not Available,3330,0,0,2,0,,0.0,107,0,55.4,,,13,0,6.62
+Suso,Sevilla,Not Available,1514,1,4,5,1,1.5,1.0,0,5,85.3,1.3,1.4,0,8,6.86
+Tadeo Allende,Celta de Vigo,Not Available,330,1,0,1,0,,,0,0,,,1.4,0,1,
+Takefusa Kubo,Real Sociedad,Not Available,2155,7,4,2,0,1.9,0.7,0,11,80.6,0.9,3.5,0,10,7.39
+Tanguy Nianzou,Sevilla,Not Available,315,0,0,3,0,,,0,0,,,0.0,0,0,
+Theodor Corbeanu,Granada CF,Not Available,196,1,0,2,0,,,0,0,,,0.3,0,0,
+Thibaut Courtois,Real Madrid,Not Available,333,0,0,0,0,,,0,0,,,,3,1,
+Thierry Correia,Valencia CF,Not Available,2157,0,2,4,1,0.2,1.5,0,33,76.3,1.7,0.6,0,4,6.96
+Thomas Lemar,Atlético de Madrid,Not Available,166,0,0,0,0,,,0,0,,,0.2,0,0,
+Toni Kroos,Real Madrid,Not Available,2130,1,8,3,0,1.5,1.4,0,17,94.7,0.7,1.7,0,9,7.56
+Toni Lato,Mallorca,Not Available,1546,0,1,3,0,0.3,1.3,0,17,77.5,1.1,0.2,0,3,6.77
+Toni Villa,Girona,Not Available,11,0,0,0,0,,,0,0,,,0.0,0,0,
+Umar Sadiq,Real Sociedad,Not Available,1074,3,1,4,0,2.8,0.8,0,0,71.1,3.8,3.6,0,2,6.5
+Unai García,Osasuna,Not Available,559,1,0,4,1,,,0,0,,,0.1,0,0,
+Unai Gómez,Athletic Club,Not Available,867,2,0,1,0,1.7,1.0,0,2,79.9,1.1,1.5,0,1,6.49
+Unai López,Rayo Vallecano,Not Available,2123,1,2,9,0,1.4,1.0,0,16,84.3,2.5,1.2,0,5,6.76
+Unai Núñez,Celta de Vigo,Not Available,2802,1,0,4,0,0.7,0.9,0,52,79.9,1.2,1.4,0,0,7.01
+Unai Simón,Athletic Club,Not Available,3184,0,0,2,0,,0.0,96,1,54.4,,,16,0,6.91
+Urko González,Real Sociedad,Not Available,154,0,0,1,0,,,0,0,,,0.1,0,0,
+Valery Fernández,Girona,Not Available,486,2,0,1,0,0.9,1.7,0,1,89.4,1.1,0.7,0,1,6.44
+Vedat Muriqi,Mallorca,Not Available,2329,7,2,5,0,2.5,0.2,0,6,64.0,1.5,10.5,0,6,6.92
+Vicente Guaita,Celta de Vigo,Not Available,2402,0,0,2,0,,0.0,83,0,63.3,0.0,,6,0,6.63
+Victor Chust,Cádiz,Not Available,1870,0,1,3,2,0.2,0.9,0,11,80.6,0.7,0.5,0,1,6.72
+Víctor Díaz,Granada CF,Not Available,161,0,0,1,0,,,0,0,,,,0,0,
+Viktor Tsigankov,Girona,Not Available,2067,8,7,0,0,1.9,0.9,0,12,83.1,0.6,6.3,0,12,7.28
+Vinícius Júnior,Real Madrid,Not Available,1872,15,5,7,0,3.8,0.6,0,1,78.1,1.2,13.1,0,9,7.53
+Vitor Roque,Barcelona,Not Available,319,2,0,2,1,,,0,0,,,2.5,0,0,
+William Carvalho,Real Betis,Not Available,669,1,3,2,0,1.1,1.6,0,8,89.2,1.7,0.4,0,1,6.61
+Willian José,Real Betis,Not Available,1978,10,5,0,1,2.2,0.1,0,2,80.1,0.4,5.7,0,4,6.78
+Williot Swedberg,Celta de Vigo,Not Available,434,5,0,1,0,,,0,0,,,2.3,0,0,
+Wilson Manafa,Granada CF,Not Available,241,0,0,1,0,,,0,0,,,0.0,0,0,
+Xeber Alkain,Alavés,Not Available,300,0,0,1,0,,,0,0,,,0.4,0,1,
+Yan Couto,Girona,Not Available,2245,1,8,8,0,1.2,1.4,0,10,82.6,1.4,1.5,0,7,7.01
+Yangel Herrera,Girona,Not Available,2120,5,0,9,0,2.2,1.6,0,24,87.4,2.8,4.9,0,3,7.25
+Yannick Carrasco,Atlético de Madrid,Not Available,223,0,1,0,0,,,0,0,,,0.1,0,0,
+Yarek Gasiorowski,Valencia CF,Not Available,732,0,0,1,0,,,0,0,,,0.1,0,0,
+Yeray Álvarez,Athletic Club,Not Available,1155,0,0,1,1,0.5,0.7,0,11,81.1,1.2,0.3,0,0,
+Yerson Mosquera,Villarreal,Not Available,1228,2,1,4,0,,,0,0,,,1.6,0,0,
+Youssef En-Nesyri,Sevilla,Not Available,2573,16,2,4,0,2.6,0.2,0,7,65.0,0.7,10.8,0,2,6.95
+Youssouf Sabaly,Real Betis,Not Available,1048,0,1,2,0,,,0,0,,,0.1,0,2,
+Yuri Berchiche,Athletic Club,Not Available,1931,3,1,5,0,0.8,1.2,0,20,83.6,1.4,0.9,0,4,7.08
+Yéremi Pino,Villarreal,Not Available,479,0,0,4,0,,,0,0,,,1.4,0,0,
+Álex Baena,Villarreal,Not Available,2599,2,14,11,1,2.5,0.7,0,13,78.5,1.8,8.1,0,17,7.29
+Álex Balde,Barcelona,Not Available,1378,0,1,1,0,,,0,0,,,0.1,0,1,
+Álex Centelles,Almería,Not Available,979,0,1,2,0,,,0,0,,,0.0,0,2,
+Álex Fernández,Cádiz,Not Available,1283,0,1,3,0,0.5,0.6,0,15,86.1,0.4,0.3,0,1,6.62
+Álex Morata,Cádiz,Not Available,0,0,0,0,0,,,0,0,,,0.1,0,0,
+Álvaro Fernández,Granada CF,Not Available,474,0,0,1,0,,,0,0,,,0.4,0,2,
+Álvaro García,Rayo Vallecano,Not Available,2493,6,1,6,1,1.6,0.9,0,36,68.9,0.9,6.2,0,4,6.97
+Álvaro Lemos,Las Palmas,Not Available,251,0,0,1,0,,,0,0,,,0.0,0,0,
+Álvaro Morata,Atlético de Madrid,Not Available,1909,15,3,2,1,3.2,0.5,0,1,70.7,1.6,13.8,0,4,7.07
+Álvaro Negredo,Cádiz,Not Available,48,0,0,0,0,,,0,0,,,0.1,0,0,
+Álvaro Vallés,Las Palmas,Not Available,3264,0,0,2,1,,0.1,113,0,78.8,0.0,,8,0,7.07
+Ángel Correa,Atlético de Madrid,Not Available,1525,9,2,3,0,2.5,0.9,0,2,79.5,1.4,8.0,0,7,6.87
+Éder Militão,Real Madrid,Not Available,497,0,0,0,0,,,0,0,,,0.1,0,0,
+Étienne Capoue,Villarreal,Not Available,1444,1,1,8,0,0.9,1.1,0,22,86.8,1.6,1.0,0,1,6.74
+Ørjan Håskjold Nyland,Sevilla,Not Available,2160,0,0,1,0,,,78,0,56.7,,,6,1,6.85
