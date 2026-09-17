@@ -309,15 +309,6 @@ Los notebooks disponibles son:
 
 ---
 
-### Ejecutar los tests
-
-```bash
-source .venv/bin/activate
-python -m pytest -q
-```
-
----
-
 ### Salidas del proyecto
 
 Una vez ejecutado el pipeline, los archivos de salida generados son:
