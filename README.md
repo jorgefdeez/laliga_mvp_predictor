@@ -6,7 +6,7 @@
  
 Plataforma end-to-end que extrae estadísticas reales de jugadores de LaLiga mediante web scraping,
 entrena un modelo de Machine Learning para calcular un índice de rendimiento MVP,
-y presenta los resultados a través de una aplicación web interactiva con estética de campo de fútbol.
+y presenta los resultados a través de una aplicación web.
 
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Servidor-HTTP%20Server-000000?logo=python&logoColor=white)
