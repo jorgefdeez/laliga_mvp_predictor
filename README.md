@@ -121,7 +121,7 @@ mvp_percentage = (mvp_score / max_mvp_score) × 100
 | **`web_app.py`** | Servidor HTTP ligero basado en `http.server` de Python. Sirve archivos estáticos desde el directorio `web/` en el **puerto 8080** y abre automáticamente el navegador al iniciar. |
 | **`index.html`** | Estructura de la página con un diseño temático de campo de fútbol (líneas, círculo central, áreas de penalti, corners) y un contenedor para el ranking dinámico. |
 | **`style.css`** | ~230 líneas de CSS con variables personalizadas (`--green-dark`, `--accent`, `--gold`), diseño responsive, animaciones hover en las tarjetas de jugador, barras de progreso degradadas, y medallas 🥇🥈🥉 para el podio. |
-| **`app.js`** | Carga `top10_predictions.csv` usando la librería **PapaParse**, ordena jugadores por `mvp_percentage`, renderiza el ranking con barras animadas, y aplica sanitización HTML (XSS protection). |
+| **`app.js`** | Carga `top10_predictions.csv`, ordena jugadores por `mvp_percentage`, renderiza el ranking con barras animadas. |
 | **`top10_predictions.csv`** | Archivo de salida generado por el notebook de ML. Contiene los 10 mejores jugadores con todas las métricas calculadas. |
 
 ### Orquestación (`run.py`)
