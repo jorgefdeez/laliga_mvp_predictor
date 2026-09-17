@@ -39,7 +39,7 @@ reales de jugadores hasta la visualización final en una interfaz web. Se compon
 
 | Fase | Módulo | Descripción |
 |------|--------|-------------|
-| **Extracción** | `web_scraping/` | Scraping de estadísticas de jugadores desde fuentes públicas (WhoScored) |
+| **Extracción** | `web_scraping/` | Scraping de estadísticas de jugadores desde fuentes públicas |
 | **Predicción** | `machine_learning/` | Cálculo del índice MVP mediante un scoring ponderado con métricas de eficiencia |
 | **Visualización** | `web/` | App web con ranking Top 10 animado sobre un fondo de campo de fútbol |
 
