@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # LaLiga MVP Predictor
 
@@ -337,4 +337,4 @@ Hecho con datos reales de LaLiga
 *Temporadas analizadas: 2021/22 · 2022/23 · 2023/24 · 2024/25 → Predicción: 2026/27*
 
 </div>
-]]>
+
