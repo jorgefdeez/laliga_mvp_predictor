@@ -47,7 +47,7 @@ reales de jugadores hasta la visualización final en una interfaz web. Se compon
 
 Las votaciones del MVP suelen ser subjetivas. Este proyecto propone un enfoque **cuantitativo y reproducible**
 que agrega métricas objetivas (goles, asistencias, minutos jugados, tarjetas, eficiencia por minuto)
-para generar un ranking transparente y basado en datos de múltiples temporadas (2021/22 – 2026/27).
+para generar un ranking transparente y basado en datos de múltiples temporadas (2021/22 – 2024/25).
 
 ---
 
