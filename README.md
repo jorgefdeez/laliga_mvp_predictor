@@ -94,7 +94,7 @@ laliga_mvp_predictor/
 | Componente | Funcionalidad |
 |-----------|---------------|
 | **`scraper.ipynb`** | Extrae estadísticas de jugadores de LaLiga desde fuentes públicas utilizando `requests` y `BeautifulSoup`. Recopila datos como nombre, equipo, edad, posición, partidos, minutos, goles, asistencias, tarjetas y rating. Cubre las temporadas **2021/22 a 2024/25**. |
-| **`data_cleaning.ipynb`** | Combina los CSV de todas las temporadas en un único dataset (`datos_combinados.csv`). Normaliza posiciones, limpia campos numéricos, maneja valores nulos, y genera el dataset final `datos_limpios.csv` con las columnas estandarizadas: `player_name`, `team`, `season`, `position`, `minutes_played`, `goals`, `assists`, `yellow_cards`, `red_cards`. |
+| **`data_cleaning.ipynb`** | Normaliza posiciones, limpia campos numéricos, maneja valores nulos, y genera el dataset final `datos_limpios.csv` con las columnas estandarizadas: `player_name`, `team`, `season`, `position`, `minutes_played`, `goals`, `assists`, `yellow_cards`, `red_cards`. |
 | **`raw/`** | Almacena los CSV descargados directamente del scraping, uno por temporada. |
 | **`processed/`** | Contiene los datasets intermedios y finales del pipeline de limpieza. |
 
