@@ -165,12 +165,6 @@ Definidas en [`requirements.txt`](requirements.txt):
 | `pytest` | 8.3.2 | Framework de testing automatizado |
 | `jupyter` | 1.1.1 | Ejecución de notebooks desde la terminal |
 
-### Dependencias externas (CDN)
-
-| Librería | Uso |
-|----------|-----|
-| [PapaParse 5.4.1](https://www.papaparse.com/) | Parsing de CSV en el frontend (cargado via CDN) |
-
 ---
 
 ## Instalación y Configuración
