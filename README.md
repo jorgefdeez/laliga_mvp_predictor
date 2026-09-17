@@ -102,8 +102,8 @@ laliga_mvp_predictor/
 
 | Componente | Funcionalidad |
 |-----------|---------------|
-| **`machine_learning.ipynb`** | Pipeline completo de análisis y ranking MVP. Carga los datos históricos limpios, calcula promedios por jugador, filtra por mínimo de minutos jugados, y computa tres métricas clave: **`base_score`** (combinación ponderada de goles, asistencias y penalizaciones por tarjetas), **`efficiency`** (rendimiento normalizado por cada 90 minutos), y **`mvp_percentage`** (puntuación relativa al mejor jugador, escala 0-100%). Cruza los datos con las plantillas de la temporada actual (2026/27) para evitar que gane el mvp un jugador que ya no pertenece a la liga española y genera el ranking Top 10. |
-| **`jugadores_2627.csv`** | Listado de 472 jugadores de la temporada 2026/27 con nombre y equipo, usado para filtrar las predicciones a la temporada actual. |
+| **`machine_learning.ipynb`** | Pipeline completo de análisis y ranking MVP. Carga los datos históricos limpios, calcula promedios por jugador, filtra por mínimo de minutos jugados, y computa tres métricas clave: **`base_score`** (combinación ponderada de goles, asistencias y penalizaciones por tarjetas), **`efficiency`** (rendimiento normalizado por cada 90 minutos), y **`mvp_percentage`** (puntuación relativa al mejor jugador, escala 0-100%). Cruza los datos con las plantillas de la temporada actual (2026/27) y genera el ranking Top 10. |
+| **`jugadores_2627.csv`** | Listado de 472 jugadores de la temporada 2026/27 con nombre y equipo, usado para evitar que gane el mvp un jugador que ya no pertenece a la liga española. |
 
 #### Fórmula del MVP Score
 
