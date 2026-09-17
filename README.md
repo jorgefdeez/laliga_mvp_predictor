@@ -3,7 +3,7 @@
 # LaLiga MVP Predictor
 
 **Sistema de predicción del MVP de LaLiga EA Sports basado en Machine Learning**
-
+ 
 Plataforma end-to-end que extrae estadísticas reales de jugadores de LaLiga mediante web scraping,
 entrena un modelo de Machine Learning para calcular un índice de rendimiento MVP,
 y presenta los resultados a través de una aplicación web interactiva con estética de campo de fútbol.
