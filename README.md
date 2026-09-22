@@ -62,7 +62,7 @@ laliga_mvp_predictor/
 ├── run.py                      # Lanzador del pipeline completo
 │
 ├── web_scraping/               # Módulo de extracción y limpieza de datos
-│   ├── scraper.ipynb            # Notebook: scraping de estadísticas desde WhoScored
+│   ├── scraper.ipynb            # Notebook: scraping de estadísticas
 │   ├── data_cleaning.ipynb      # Notebook: limpieza y normalización de datos
 │   ├── raw/                     # Datos crudos por temporada
 │   │   ├── s2122-laliga-players.csv
